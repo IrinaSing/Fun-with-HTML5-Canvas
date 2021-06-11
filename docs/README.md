@@ -13,9 +13,11 @@
 <!-- BEGIN TOC -->
 
 - handlers
+  - [draw.js](#srchandlersdrawjs)
 - init
   - [index.js](#srcinitindexjs)
 - listeners
+  - [listeners.js](#srclistenerslistenersjs)
 - logic
 - procedures
 - [data.js](#srcdatajs)
@@ -27,6 +29,10 @@
 ---
 
 # /handlers
+
+<details><summary><a href="../src/handlers/draw.js" id="srchandlersdrawjs">src/handlers/draw.js</a></summary>
+
+</details>
 
 ---
 
@@ -47,6 +53,10 @@
 ---
 
 # /listeners
+
+<details><summary><a href="../src/listeners/listeners.js" id="srclistenerslistenersjs">src/listeners/listeners.js</a></summary>
+
+</details>
 
 ---
 
