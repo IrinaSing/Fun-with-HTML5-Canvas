@@ -1,22 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>HTML5 Canvas</title>
-  <link href="./public/style.css" rel="stylesheet" />
-</head>
-<body>
-<canvas id="draw" width="800" height="800"></canvas>
-<script type="module" src="./src/init/index.js"></script>
-<script>
-  const canvas = document.querySelector('#draw');
-  const ctx = canvas.getContext('2d');
-  canvas.width = window.innerWidth;
-  canvas.height = window.innerHeight;
-  ctx.strokeStyle = '#BADA55';
-  ctx.lineJoin = 'round';
-  ctx.lineCap = 'round';
-  ctx.lineWidth = 50;
-</script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <title>HTML5 Canvas</title>
+    <link href="./public/style.css" rel="stylesheet" />
+  </head>
+  <body>
+    <canvas id="draw" width="800" height="800"></canvas>
+    <script type="module" src="./src/init/index.js"></script>
+  </body>
 </html>

@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/hackyourfuturebelgium/word-list",
   "devDependencies": {
+    "dependency-cruiser": "^10.0.1",
     "eslint": "^7.25.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^8.3.0",
@@ -31,12 +32,11 @@
     "eslint-plugin-jsdoc": "^32.3.1",
     "eslint-plugin-prefer-arrow": "^1.2.3",
     "eslint-plugin-prettier": "^3.4.0",
+    "graphviz-cli": "^1.0.0",
     "jest": "^26.6.3",
     "jsdoc-to-markdown": "^6.0.1",
     "prettier": "^2.2.1",
     "stylelint": "^13.13.1",
-    "stylelint-config-standard": "^22.0.0",
-    "dependency-cruiser": "^10.0.1",
-    "graphviz-cli": "^1.0.0"
+    "stylelint-config-standard": "^22.0.0"
   }
 }
